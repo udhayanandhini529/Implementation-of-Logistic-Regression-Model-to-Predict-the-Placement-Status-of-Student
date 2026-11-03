@@ -59,8 +59,7 @@ print("Classification Report:\n", classification_report(y_test, y_pred))
 ```
 ## Output:
 ![the Logistic Regression Model to Predict the Placement Status of Student](sam.png)
-![alt text](<Screenshot 2026-11-03 091209.png>)
-![alt text](<Screenshot 2026-11-03 091305.png>)
-
+![alt text](<Screenshot 2026-11-03 092115.png>)
+![alt text](<Screenshot 2026-11-03 092127.png>)
 ## Result:
 Thus the program to implement the the Logistic Regression Model to Predict the Placement Status of Student is written and verified using python programming.
